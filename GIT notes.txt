@@ -1,0 +1,93 @@
+GIT
+***
+what is GIT?
+- GIT is a version control system which is used to track changes in the files/folders.
+- GIT is also used to collaborate within the team.
+- GIT is open source and free to use.
+- When multiple developers are working together git provide a collaboration between each other.
+
+Why we have to learn git:-
+**************************
+- git track all the changes in the application and record of what has done so far.
+- Easier collaboration.
+- multiple people makes changes & finally  merged into single source code.
+- save the code references.
+
+two types of VCS:-
+*****************
+1.centralized VCS
+2.Distributed VCS
+
+1.centralized VCS :-
+- it is having only one repo(serve)
+- all the working people connected to one server.
+- if anything goes wrong on server everything get crash and data will be lost.
+- every working people must be in online mode because the repo is server.
+
+2.Distributed VCS:-
+- repo is in the server , but every person can pull that repo to their local repo.
+- if anything goes wrong here  , we can take backup from local repo.
+- here, there is not need to be online every time becausewe are gonna pull the code and work on it.
+- internet is only need when we are "pushing and pulling" the code to the server(repo).
+
+"GIT" is Distributed VCS.
+
+
+what is GITHUB?
+- GITHUB is a website to upload uour repositories online.
+- GITHUB is used to store the codes/data permanently.
+- GITHUB provides backup.
+- GITHUB provides visual interface of your repo.
+- Makes collaboration easier.
+
+
+intsllation of git and GitHub.
+*****************************
+GIT ->  https://git-scm.com/downloads/win
+
+GITHUB ->https://github.com/
+- create account -> email -> password -> username ->
+
+puzzle -> create for free -> login
+
+-> create new repository -> repo name -> public -> create repository.
+
+- we have to work on pushing and pulling the code into repo by using "GIT COMMANDS".
+
+
+- before pushing and pulling the code for the very firsttime in GIt ,
+- we have to configure the settings like email & username.
+
+- git config --global user.email "example@gmail.com"
+
+- git config --global user.name "username"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
